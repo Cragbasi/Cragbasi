@@ -1,6 +1,6 @@
 Hi 👋, I’m [Chijioke Raphael Agbasi] – A Full-Stack Software Engineer
 🌍 Location: [Broomfield, CO]
-🔗 Portfolio: [[Your Portfolio Link](https://www.linkedin.com/in/agbasi)]
+🔗 Portfolio: [[Your Portfolio Link](https://cragbasi.github.io/my_website/)]
 
 🚀 About Me: I am a Full-Stack Software Engineer passionate about building scalable and high-performing web applications. With expertise in both front-end and back-end development, I thrive on solving complex problems and creating seamless user experiences. I am currently completing the TripleTen Software Engineering Bootcamp, where I am deepening my skills in JavaScript, Python, React, and backend technologies like Node.js and databases.
 
