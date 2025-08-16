@@ -11,7 +11,7 @@ Hi 👋, I’m [Chijioke Raphael Agbasi] – A Full-Stack Software Engineer
 	•	Testing & Debugging: Jest, Postman, ESLint, Chrome DevTools
 	•	Version Control: Git, GitHub
  
- 📚 Recently Completed Learning: TripleTen Software Engineering Bootcamp (August 2020 Graduate)
+ 📚 Recent Completed Learning: TripleTen Software Engineering Bootcamp (August 2025 Graduate)
 
 🎓 TripleTen Bootcamp – Software Engineering
 	•	Full-Stack Web Development: JavaScript, TypeScript, Python, OOP, React, Node.js, Express.js
